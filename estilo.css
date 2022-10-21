@@ -1,0 +1,40 @@
+body {
+    background-color: #fffbe7
+  }
+  
+  .cidade {
+    color: grey;
+  }
+  
+  .nome {
+    font-size: 40px;
+    margin: 0;
+  }
+  
+  .imagem-perfil {
+    width: 200px;
+    height: 200px;
+  }
+  
+  header {
+    background-color: #fcd000;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  header h1 {
+    font-size: 15px;
+    margin:0;
+  }
+  
+  .objetivo,
+  .formacao,
+  .experiencia {
+    margin-left: 20px;
+  }
+  
+  .telefone {
+    color: blue
+  }
